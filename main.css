@@ -1,6 +1,9 @@
 ::-webkit-scrollbar {
   display: none
 }
+a {
+  display: contents
+}
 table {
   border-collapse: collapse
 }
